@@ -1,0 +1,14 @@
+snake
+lizard
+buffalo
+elephant
+flamingo
+hedgehog
+hummingbird
+rattlesnake
+rhino
+coyote
+seahorse
+kangaroo
+horse 
+wolf
